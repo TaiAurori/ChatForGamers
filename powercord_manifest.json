@@ -1,0 +1,9 @@
+{
+    "name": "Chat For Gamers",
+    "description": "Discord from long, long ago!",
+    "version": "0.1.0",
+    "author": "TaiAurori#6781",
+    "theme": "index.css",
+    "consent": "false",
+    "license": "MIT"
+}
